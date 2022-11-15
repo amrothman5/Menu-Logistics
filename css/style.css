@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&family=Monoton&display=swap');
 body{
-    background-image: url("");
+    background-image: url("/img/822e5209-9f8e-4da7-8c93-5e73aad3c02f.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: border-box;
 }
 .one{
 
@@ -14,7 +17,7 @@ body{
     -moz-border-radius: 15px;
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 .btnArabic{
     border-radius: 15px;
@@ -25,7 +28,7 @@ body{
     height: 70px;
     font-family: 'Cairo', sans-serif;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 20px;
 
 }
 .btnEng{
